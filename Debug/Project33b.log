@@ -1,0 +1,10 @@
+﻿  Complex.cpp
+F:\!!!___NB\ооп\lab3\Project33b\Complex.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab3\Project33b\Complex.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  lab3.3.B.cpp
+F:\!!!___NB\ооп\lab3\Project33b\Complex.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab3\Project33b\lab3.3.B.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Pair.cpp
+F:\!!!___NB\ооп\lab3\Project33b\Pair.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Project33b.vcxproj -> F:\!!!___NB\ооп\lab3\Project33b\Debug\Project33b.exe
